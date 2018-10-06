@@ -14,127 +14,46 @@ Android 周报
 
 ### 最新周报
 
-#### MAndroid 周报第九期
+#### MAndroid 周报第十六期
 
 #### 简介
-MAndroid 第九期哦，如果你有好用的开源库，技术文章，可以在文章底下留言或在公众号MAndroid下留言，我会整理到下一期分享给大家。如果文章点不了的话，点击底部的查看原文就可以了
 
-#### 一、开源库
+MAndroid 第十六期哦，如果你有好用的开源库，技术文章，可以在文章底下留言或在公众号MAndroid下留言，我会整理到下一期分享给大家。
 
-##### 1.[SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar)
-简单好用的ratingbar
-![](https://raw.githubusercontent.com/ome450901/SimpleRatingBar/master/images/demo.gif)
+### 一、开源库
 
-##### 2.[NumberRain](https://github.com/skateboard1991/NumberRain)
-Android自定义控件仿黑客帝国数字雨
-![](https://raw.githubusercontent.com/skateboard1991/NumberRain/master/show.gif)
+|名字|介绍|图片|
+|-----|-----|-----|
+|[OverScrollDecor](https://github.com/jeasonlzy/OverScrollDecor)|类似IOS的over-scrolling效果，即对于滑动到顶部的View继续滑动时会超出，松手后自动还原到原始位置|![image](http://upload-images.jianshu.io/upload_images/3749707-ac1aa580d7412684.gif?imageMogr2/auto-orient/strip)|
+|[banner](https://github.com/youth5201314/banner)|Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！|![image](http://upload-images.jianshu.io/upload_images/3749707-78769361289fba49?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![image](http://upload-images.jianshu.io/upload_images/3749707-7aa124e31575e5c6?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
+|[PhotoViewer](https://github.com/wanglu1209/PhotoViewer)|一个仿微信朋友圈的图片查看器|![image](http://upload-images.jianshu.io/upload_images/3749707-3a0fc69ffef66ab3.gif?imageMogr2/auto-orient/strip)|
+|[WaitView](https://github.com/ImKarl/WaitView)|显示等待加载状态的View|![image](http://upload-images.jianshu.io/upload_images/3749707-afd63fbe7e706ca1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
+|[RWidgetHelper](https://github.com/RuffianZhong/RWidgetHelper)|继承基础控件 1.代替selector直接设置xml属性实现圆形|![image](http://upload-images.jianshu.io/upload_images/3749707-d3b7aea31e5b5243.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
+|[BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)|过标签直接生成shape，无需再写shape.xml|![image](http://upload-images.jianshu.io/upload_images/3749707-3ec4d656312e9851?imageMogr2/auto-orient/strip)|
+|[westore](https://github.com/dntzhang/westore)|微信小程序解决方案 - 做最小最强的小程序框架|![image](http://upload-images.jianshu.io/upload_images/3749707-2da278af28fe1f7f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
 
-##### 3.[CacheWebView](https://github.com/yale8848/CacheWebView)
-突破系统WebView缓存的空间限制的WebView
 
-##### 4.[luckly_popup_window](https://github.com/MrGaoGang/luckly_popup_window)
-Android开发使用PupopWindow在指定View的上下左右动态显示菜单列表，模仿IOS底部弹窗列表。
-![](https://raw.githubusercontent.com/MrGaoGang/luckly_popup_window/master/images/image.gif)
+### 二、开发工具
 
-##### 5.[PhotoEditor](https://github.com/burhanrashid52/PhotoEditor)
-图片编辑器
-![](https://camo.githubusercontent.com/369bd281b6e81fff361d03a59285a2db75f1d900/68747470733a2f2f692e696d6775722e636f6d2f494e69354c49792e676966)
+|名字|介绍|
+|-----|-----|
+|[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)|用于管理zsh配置。|
+|[arthas](https://github.com/alibaba/arthas)|Java诊断利器Arthas|
+|[chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)|Chrome插件开发完整demo|
+|[抖音特效部分实现](https://www.jianshu.com/p/5bb7f2a0da90)|抖音特效部分实现|
+|[LogCollector](https://github.com/ljuns/LogCollector)|一个收集 app 输出日志的工具|
+|[EnvironmentSwitcher](https://github.com/CodeXiaoMai/EnvironmentSwitcher)|无需重新打包，一键切换环境 |
+|[JavaGuide](https://github.com/Snailclimb/JavaGuide)|一份涵盖大部分Java程序员所需要掌握的核心知识|
+|[SmartCropper](https://github.com/pqpo/SmartCropper)|智能图片裁剪框架|
+|[AndroidOfferKiller](https://github.com/Blankj/AndroidOfferKiller)|Help you get a better offer|
 
-二、工具
-##### 1.[LayoutMaster](https://github.com/wuapnjie/LayoutMaster)
-插件基于Layout Inspector，强化了这个工具，故取名Layout Master。
-![](https://raw.githubusercontent.com/wuapnjie/LayoutMaster/master/images/pic2.gif)
 
-##### 2.[aliyun-sms](https://github.com/VICTOR-LUO-F/aliyun-sms)
-一个应用阿里云短信推送服务的Ruby Gem。
 
-##### 3.[tray](https://github.com/grandcentrix/tray)
-支持多进程的Android的SharedPreferences替代品
+### 三、开源项目
 
-##### 4.[gradle](https://github.com/gradle/gradle)
-For more information about Gradle, please visit: https://gradle.org
-
-##### 5.[UETool](https://github.com/eleme/UETool)
-UETool 是一个各方人员（设计师、程序员、测试）都可以使用的调试工具。它可以作用于任何显示在屏幕上的 view
-![](https://raw.githubusercontent.com/eleme/UETool/master/art/uet_banner.jpeg)
-
-三、开源项目
-##### 1.[AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher)
-这是一个TV Leanback 风格桌面
-![](https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch1.png)
-
-##### 2.[Java-Poetry](https://github.com/Alex-Jerry/Java-Poetry)
-App《最美诗词》服务器端源码，当前版本仅提供API接口
-
-RN
-##### 3.[ComicBook](https://github.com/liyuechun/ComicBook)
-基于iOS和Android的react-native跨平台漫画App
-![](https://raw.githubusercontent.com/liyuechun/ComicBook/master/Design_Sketch/004.png)
-
-#### 四、其他
-##### 1.[Hackintosh](https://github.com/huangyz0918/Hackintosh-Installer-University)
-这是一个开源的黑苹果教程仓库，对所有用户免费。
-
-##### 2.[flutter_list_drag_and_drop](https://github.com/Norbert515/flutter_list_drag_and_drop)
-A new Flutter package which handles all aspects of drag and drop inside a listView.
-![](https://raw.githubusercontent.com/Norbert515/flutter_list_drag_and_drop/master/example/gifs/demo_1_small.gif)
-
-##### 3.[Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)
-Flutter从配置安装到填坑指南详解
-![](https://raw.githubusercontent.com/AweiLoveAndroid/Flutter-learning/master/pics/app.png)
-
-#### 五、技术文章
-1.[自定义View心法—View工作流程](https://mp.weixin.qq.com/s/1ZwC_kBYIdZNMJsOiWP-WQ)
-作者：Alex_Payne
-
-2.[关于Android改变TabLayout 下划线(Indicator)宽度实践总结](https://mp.weixin.qq.com/s/5n6GpWAaWECvFOT0_HLXhw)
-作者：依然饭特稀西
-
-3.[App安全二三事](https://mp.weixin.qq.com/s/xBBJRA0NlFo6lStt8KTZGA)
-作者：徐宜生
-
-4.[贝塞尔曲线模仿练习](https://mp.weixin.qq.com/s/TedgMrTWnu2-ogQE-wl5YQ)
-作者：christyyi
-
-5.[MVPArms官方快速组件化方案开源](https://mp.weixin.qq.com/s/IijhVIZTvswh7gvED-Yg3g)
-作者：JessYan
-
-6.[Android DataBinding 从入门到进阶](https://mp.weixin.qq.com/s/I38jJmP9r-S-tT98J3Go5g)
-作者：叶应是叶
-
-7.[年中 Android 开源库推荐](https://mp.weixin.qq.com/s/zhW3o9OlV1MQfMBiP7tAkg)
-作者：code小生
-
-8.[Android 数据交换解析框架Gson使用详解](https://mp.weixin.qq.com/s/iY3nTZc1Tt7tcGs8dM_59Q)
-作者：leavesC
-
-9.[Android彻底组件化方案实践](https://mp.weixin.qq.com/s/5wEnjmr6uO06XVikS45idw)
-作者：格竹子
-
-10.[工程师如何进阶技术管理](https://mp.weixin.qq.com/s/W18Pc7JywF8PNyogaQ6qiQ)
-作者：静心Study
-
-11.[无比强大的ViewGroup——ConstraintLayout](https://mp.weixin.qq.com/s/GuD2lLWrl4CvGCMXPtjJfQ)
-作者：bear~
-
-12.[Android 自带的注解的使用](https://mp.weixin.qq.com/s/puhkUEGB6nPlVNRLi5Zf9Q)
-作者：AWeiLoveAndroid
-
-13.[推荐几个优质开源项目](https://mp.weixin.qq.com/s/-xfgvmbkY24NY7hGd7554w)
-作者：鸿洋
-
-13.[实现炫酷列表动画的最佳姿势](https://mp.weixin.qq.com/s/v67BMDj2ZexV6EXDiLlF_g)
-作者：钉某人
-
-14.[Java 和 Kotlin 语法区别](https://mp.weixin.qq.com/s/7BIExpC_UYgR5Cxan8S39g)
-作者：JxMY
-
-15.[仿qq聊天消息长按弹窗](https://mp.weixin.qq.com/s/wxQklDW1V6UFKOweOmP7ww)
-作者：andy
-
-16.[Android 转场动画](https://juejin.im/post/5b0e8554f265da08ed7a15d1)
-作者：设计师吴彦祖
+|名字|介绍|图片|
+|-----|-----|-----|
+|[scallop](https://github.com/zeleven/scallop)|干货集中营Android app|![image](http://upload-images.jianshu.io/upload_images/3749707-406ef58b909a9c49.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|
 
 #### 总结
 以上所有的库都会总结到[Android-ui-2018](https://github.com/lvm0306/Android-ui-2018)，目前控件目录还在收录中，会近期发布的，~~~我慢慢的扩展周报的内容的。希望大家多多点赞收藏。我会一直做这个系列的。
-
